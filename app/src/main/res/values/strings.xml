@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DaggerBirdShooter</string>
+    <string name="check_for_update"><a href="http://play.google.com/store/apps/details?id=com.pradeep.birdsshooterplane">
+        Check for update</a></string>
+</resources>
